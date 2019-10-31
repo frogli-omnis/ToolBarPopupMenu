@@ -9,13 +9,16 @@ Omnis Studio library to demonstrate the communication between a popup menu opene
 | NewMenu | Menu class which openened from class NewWindow |
 
 # How does it work?
-After opening the window NewWindow you can click the toolbar button. 
+After opening the window NewWindow you can click the toolbar button.
+
 ![NewWindow class](Documentation/Images/NewWindow.png)
 
 Clicking this button give a menu with one item.
+
 ![NewWindow class](Documentation/Images/PopupMenuClicked.png)
 
 Choosing this item a new menu is opened with two items.
+
 ![NewWindow class](Documentation/Images/PopupList.png)
 
 Choosing one of these items opens a OK message with as title the 
