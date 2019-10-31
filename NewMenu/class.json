@@ -1,0 +1,46 @@
+{
+	"classtype": "kMenu",
+	"internalversion": 14,
+	"designtaskname": "Startup_Task",
+	"nextident": 1011,
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+		{
+			"name": "popMenuItems",
+			"order": 2,
+			"type": "kList",
+			"subtype": "",
+			"sublen": 0
+		},
+		{
+			"name": "windowRef",
+			"order": 1,
+			"type": "kItemref",
+			"subtype": "",
+			"sublen": 0
+		}
+	],
+	"properties": {
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2019-10-31 09:15:56",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"enabled": true,
+		"external": true,
+		"helpfile": 0,
+		"helptext": "",
+		"inheritedorder": 0,
+		"issupercomponent": false,
+		"moddate": "2019-10-31 14:00:59",
+		"showascheckedout": false,
+		"title": "",
+		"userinfo": "",
+		"users": "12345678",
+		"version": ""
+	}
+}

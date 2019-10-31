@@ -1,0 +1,20 @@
+{
+	"ident": 1010,
+	"order": 1,
+	"objtype": "kToolMenuButton",
+	"properties": {
+		"enabled": true,
+		"helpfile": 0,
+		"iconid": 1759,
+		"longpress": false,
+		"menuname": {
+			"type": 0,
+			"calc": "NewMenu"
+		},
+		"text": "",
+		"tooltip": "",
+		"userinfo": "",
+		"users": "12345678",
+		"varwidthtextplatforms": "kVWTMSWindows,kVWTmacOS,kVWTUnix"
+	}
+}

@@ -1,0 +1,4 @@
+;  Enter your initialization code here
+Do iChoicelist.$define(name,id)
+Do iChoicelist.$add('popupList 1','pl1')
+Do iChoicelist.$add('popupList 2','pl2')

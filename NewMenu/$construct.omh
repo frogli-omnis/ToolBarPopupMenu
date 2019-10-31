@@ -1,0 +1,4 @@
+;  Enter your initialization code here
+Do popMenuItems.$define(name,id)
+Do popMenuItems.$add('popupList 1','pl1')
+Do popMenuItems.$add('popupList 2','pl2')

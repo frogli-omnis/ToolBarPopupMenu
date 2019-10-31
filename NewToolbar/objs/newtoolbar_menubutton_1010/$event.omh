@@ -1,0 +1,2 @@
+On evClick
+	Calculate #S2 as $cwind().$ref

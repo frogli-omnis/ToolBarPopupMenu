@@ -1,0 +1,47 @@
+{
+	"classtype": "kToolbar",
+	"internalversion": 14,
+	"designtaskname": "Startup_Task",
+	"nextident": 1011,
+	"cvardefs": [
+		{
+			"name": "iChoicelist",
+			"order": 1,
+			"type": "kList",
+			"subtype": "",
+			"sublen": 0
+		}
+	],
+	"ivardefs": [
+		{
+			"name": "iChoicelist",
+			"order": 1,
+			"type": "kList",
+			"subtype": "",
+			"sublen": 0
+		}
+	],
+	"properties": {
+		"allowdrag": false,
+		"allowresize": false,
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2019-10-29 20:56:08",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"enabled": true,
+		"external": true,
+		"helpfile": 0,
+		"inheritedorder": 0,
+		"initialdockingarea": "kDockingAreaTop",
+		"issupercomponent": false,
+		"moddate": "2019-10-31 13:59:23",
+		"showascheckedout": false,
+		"title": "",
+		"userinfo": "",
+		"users": "12345678",
+		"version": ""
+	}
+}

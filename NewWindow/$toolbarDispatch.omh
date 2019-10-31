@@ -1,0 +1,4 @@
+Do popupList.$add('Item 1','1')
+Do popupList.$add('Item 2','2')
+Popup menu from list popupList at
+OK message [popupList.C1] {Comes from popup menu item [aName]}
